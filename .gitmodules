@@ -1,0 +1,3 @@
+[submodule "point-spring-boot-appkit"]
+	path = point-spring-boot-appkit
+	url = https://github.com/iceant/point-spring-boot-appkit
